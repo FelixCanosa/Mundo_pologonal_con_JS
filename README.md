@@ -1,7 +1,7 @@
 
 ![Logo del Proyecto](https://i.postimg.cc/vmFzyTLy/Captura-de-pantalla-de-2024-08-03-22-45-32.png)
 
-![Animación del juego](Video_2024-08-03_22-58-35.mp4)
+[Descargar video](Captura_de_pantalla_de_2024-08-03_22-45-32.mp4)
 
 ```
 Carpeta sin título
