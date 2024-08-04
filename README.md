@@ -11,7 +11,7 @@ Este proyecto es una demostración del potencial de JavaScript para crear experi
 **Características:**
 
 * **Texturas:** Superficies detalladas con texturas cargadas dinámicamente.
-* **Menú:** Un menú simple e intuitivo para navegar por las opciones del juego.
+* **Menú:** Un menú simple e intuitivo.
 * **Shaders:** Efectos visuales avanzados implementados con shaders para una experiencia más inmersiva.
 * **Animación:** Pajaros animados que vuelan por el cielo, añadiendo vida al entorno.
 
